@@ -1,0 +1,4 @@
+transformers
+python-telegram-bot
+torch
+diffusers
